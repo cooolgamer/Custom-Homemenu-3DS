@@ -16,7 +16,7 @@ Only suport EUR on Old/New 3DS on < 11.14 (11.14 work)
 * Download the latest release
 * Extract the ZIP file and copy the gm9 folder on the root of your SDcard
 * Launch godmode9 by holding start on booting (if you don't have it, you can find it here https://github.com/d0k3/GodMode9/releases)
-* On godmode9; press HOME, go to scripts and select "Mod_HomeMenu"
+* On godmode9, press HOME, go to scripts and select "Mod_HomeMenu"
 * On the Mod HomeMenu script, select install, select "Coool Custom Homemenu.cia" and unlock permissions
 * It will ask to create a NAND backup, select "yes" and wait
 * When finished, press A and start, the custom homemenu is installed!

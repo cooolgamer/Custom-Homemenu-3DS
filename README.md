@@ -22,4 +22,4 @@ Only suport EUR on Old/New 3DS on < 11.14 (11.14 work)
 * When finished, press A and start, the custom homemenu is installed!
 Enjoy!
 ## Need help? Or just want to see my other projects?
-Join my discord server! https://discord.gg/hKgeSYqcsC
+Join my discord server for help, or chat! https://discord.gg/hKgeSYqcsC

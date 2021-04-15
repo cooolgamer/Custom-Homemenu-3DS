@@ -11,4 +11,4 @@ Only suport EUR on Old/New 3DS on < 11.14 (11.14 work)
 * Changed HUD (the date/hour/play coins etc...)
 * Changed banner/icons for apelets (miiverse is now red and flash green for notifications)
 * Homemenu layout menu is now grey/blue
-* Custom sleep mode (screen when you press power) is now a AP screen (lol)
+* Custom sleep mode (screen when you press power) is now a AP screen (texts only for french and english)

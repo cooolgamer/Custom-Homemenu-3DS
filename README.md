@@ -21,3 +21,5 @@ Only suport EUR on Old/New 3DS on < 11.14 (11.14 work)
 * It will ask to create a NAND backup, select "yes" and wait
 * When finished, press A and start, the custom homemenu is installed!
 Enjoy!
+##Need help? Or just want to see my other projects?
+Join my discord server! https://discord.gg/hKgeSYqcsC

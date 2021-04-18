@@ -21,7 +21,7 @@ Only suport EUR on Old/New 3DS on < 11.14 (11.14 work)
 ![unknown3](/unknown3.png?raw=true "custom icons")
 ![unknown4](/unknown4.png?raw=true "custom homemenu layout")
 ## How to install?
-* Download the latest release
+* Download the latest release in https://github.com/cooolgamer/Custom-Homemenu-3DS/releases
 * Extract the ZIP file and copy the gm9 folder on the root of your SDcard
 * Launch godmode9 by holding start on booting (if you don't have it, you can find it here https://github.com/d0k3/GodMode9/releases)
 * On godmode9, press HOME, go to scripts and select "Mod_HomeMenu"

@@ -13,7 +13,7 @@ Only suport EUR on Old/New 3DS on < 11.14 (11.14 work)
 * Homemenu layout menu is now grey/blue
 * Custom sleep mode (screen when you press power) is now a AP screen (texts only for french and english)
 ## Here Is some Screenshoots
-![unknown](/unknown.png?raw=true "Red miiverse")
+![unknown](/unknown.png?raw=true "Red miiverse and custom HUD")
 ![unknown1](/unknown1.png?raw=true "transparency")
 ![unknown2](/unknown2.png?raw=true "transparency menu")
 ![unknown3](/unknown3.png?raw=true "custom icons")

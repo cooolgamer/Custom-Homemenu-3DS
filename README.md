@@ -12,6 +12,7 @@ Only suport EUR on Old/New 3DS on < 11.14 (11.14 work)
 * Changed banner/icons for apelets (miiverse is now red and flash green for notifications)
 * Homemenu layout menu is now grey/blue
 * Custom sleep mode (screen when you press power) is now a AP screen (texts only for french and english)
+![unknown](/unknown.png?raw=true "Example image showing something")
 ## How to install?
 * Download the latest release
 * Extract the ZIP file and copy the gm9 folder on the root of your SDcard

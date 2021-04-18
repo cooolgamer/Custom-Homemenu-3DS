@@ -14,12 +14,12 @@ Only suport EUR on Old/New 3DS on < 11.14 (11.14 work)
 * Custom sleep mode (screen when you press power) is now a AP screen (texts only for french and english)
 ## Here Is some Screenshoots
 ![unknown](/unknown.png?raw=true "Red miiverse and custom HUD")
-![unknown1](/unknown1.png?raw=true "transparency")
+![unknown1](/unknown1.png?raw=true "transparency window")
+![unknown5](/unknown5.png?raw=true "transparency window with one button")
+![unknown6](/unknown6.png?raw=true "transparency window with two button")
 ![unknown2](/unknown2.png?raw=true "transparency menu")
 ![unknown3](/unknown3.png?raw=true "custom icons")
 ![unknown4](/unknown4.png?raw=true "custom homemenu layout")
-![unknown5](/unknown5.png?raw=true "transparency windows with one button")
-![unknown6](/unknown6.png?raw=true "transparency windows with two button")
 ## How to install?
 * Download the latest release
 * Extract the ZIP file and copy the gm9 folder on the root of your SDcard

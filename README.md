@@ -2,14 +2,14 @@
 ## Suported Versions:
 Only suport EUR and USA on Old/New 3DS on < 11.14 (11.14 work)
 ## What changed? What is modified?
-#V2
+#V 2
 * Changed cursors (inspired of old homemenu)
 * Better transparency, It's now readable
 * homemenu settings close button changed
 * Changed sleep screen, big button in the middle, removed the piracy joke
 * Changed battery skin
 * And the better, USA COMPATIBILITY!
-#V1
+# V1
 * For french users (baguette): custom texts :)
 * Custom cursor and buttons (old homemenu style for buttons)
 * Custom basic themes (no music)
@@ -20,7 +20,14 @@ Only suport EUR and USA on Old/New 3DS on < 11.14 (11.14 work)
 * Homemenu layout menu is now grey/blue
 * Custom sleep mode (screen when you press power) is now a AP screen (texts only for french and english)
 ## Screenshots
-#V1
+# V2
+![bottom screen](/bottom screen.png?raw=true "Launcher")
+![top screen HUD](/top screen HUD.png?raw=true "Top screen")
+![homemenu settings](/homemenu settings.png?raw=true "Homemenu Settings")
+![ask close software](/ask close software.png?raw=true "Ask Window")
+![close software](/close software.png?raw=true "Close software Window")
+![homemenu layout](/homemenu layout.png?raw=true "homemenu layout")
+# V1
 ![unknown](/unknown.png?raw=true "Red miiverse and custom HUD")
 ![unknown1](/unknown1.png?raw=true "transparency window")
 ![unknown5](/unknown5.png?raw=true "transparency window with one button")

@@ -10,6 +10,7 @@ Only support EUR and USA on Old/New 3DS on < 11.14 (11.14 work)
 * Changed sleep screen, big button in the middle, removed the piracy joke
 * Changed battery skin
 * And the better, USA COMPATIBILITY!
+* Note: custom french texts are not available on USA version.
 # V1
 * For french users (baguette): custom texts :)
 * Custom cursor and buttons (old homemenu style for buttons)

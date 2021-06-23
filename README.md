@@ -41,9 +41,14 @@ Only suport EUR and USA on Old/New 3DS on < 11.14 (11.14 work)
 * Extract the ZIP file and copy the gm9 folder on the root of your SDcard
 * Launch godmode9 by holding start on booting (if you don't have it, you can find it here https://github.com/d0k3/GodMode9/releases)
 * On godmode9, press HOME, go to scripts and select "Mod_HomeMenu"
-* On the Mod HomeMenu script, select "install", select "Coool Custom Homemenu.cia" and unlock permissions
+* On the Mod HomeMenu script, select "install", select "HomeMenu_edited.cia" and unlock permissions
 * It will ask to create a NAND backup, select "yes" and wait
 * When finished, press A and start, the custom homemenu is installed!
 Enjoy!
+## How to uninstall?
+* Launch godmode9
+* Again, press HOME, go to scripts and select "Mod_HomeMenu"
+* Instead of select "install", select "restore" and follow instructions
+* Done! It's now uninstalled and you can boot on original Firmware!
 ## Need help? Or just want to see my other projects?
 Join my discord server for help, or chat! https://discord.gg/hKgeSYqcsC

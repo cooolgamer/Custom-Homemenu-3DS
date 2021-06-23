@@ -1,4 +1,5 @@
 # Custom Homemenu 3DS
+NOTE: By installing this, you CAN'T boot on original firmware (OFW). You need to uninstall it for booting on OFW!
 ## Suported Versions:
 Only suport EUR and USA on Old/New 3DS on < 11.14 (11.14 work)
 ## What changed? What is modified?

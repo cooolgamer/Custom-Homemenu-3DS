@@ -2,7 +2,7 @@
 ## Suported Versions:
 Only suport EUR and USA on Old/New 3DS on < 11.14 (11.14 work)
 ## What changed? What is modified?
-#V 2
+# V2
 * Changed cursors (inspired of old homemenu)
 * Better transparency, It's now readable
 * homemenu settings close button changed

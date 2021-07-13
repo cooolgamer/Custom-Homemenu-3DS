@@ -26,6 +26,7 @@ Only support EUR and USA on Old/New 3DS on < 11.14 (11.14 work)
 * Homemenu layout menu is now grey/blue
 * Custom sleep mode (screen when you press power) is now a AP screen (texts only for french and english)
 ## Screenshots
+(video: https://youtu.be/zQe--Ni4vi8)
 # V2
 ![bottom-screen](/bottom-screen.png?raw=true "Launcher")
 ![top-screen](/top-screen.png?raw=true "Top screen")

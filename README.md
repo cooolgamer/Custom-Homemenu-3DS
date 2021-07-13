@@ -3,6 +3,10 @@ NOTE: By installing this, you CAN'T boot on original firmware (OFW). You need to
 ## Supported Versions:
 Only support EUR and USA on Old/New 3DS on < 11.14 (11.14 work)
 ## What changed? What is modified?
+# V2.1
+* Faster boot (don't work on USA for some reasons... Maybe because the code.bin from the 11.9 homemenu don't work)
+* Cursor shadow like old homemenu
+* and finaly, JPN compatibility!
 # V2
 * Changed cursors (inspired of old homemenu)
 * Better transparency, It's now readable

@@ -4,7 +4,7 @@ NOTE: By installing this, you CAN'T boot on original firmware (OFW). You need to
 EUR/USA/JPN on Old/New 3DS/2DS on < 11.14 (11.14 work)
 # What changed? What is modified?
 ## V2.1
-* Fastest boot (don't work on USA for some reasons...)
+* Fastest boot on EUR/JPN
 * Cursor shadow like old homemenu
 * and finaly, JPN compatibility!
 ## V2

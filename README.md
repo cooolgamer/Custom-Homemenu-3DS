@@ -57,4 +57,4 @@ Enjoy!
 * Instead of select "install", select "restore" and follow instructions
 * Done! It's now uninstalled and you can boot on original Firmware!
 ## Need help? Or just want to see my other projects?
-Join my discord server for help, or chat! https://discord.gg/hKgeSYqcsC
+Join my discord server for help/report bugs or chat! https://discord.gg/hKgeSYqcsC

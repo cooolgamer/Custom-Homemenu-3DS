@@ -25,9 +25,9 @@ Only support EUR and USA on Old/New 3DS on < 11.14 (11.14 work)
 * Changed banner/icons for apelets (miiverse is now red and flash green for notifications)
 * Homemenu layout menu is now grey/blue
 * Custom sleep mode (screen when you press power) is now a AP screen (texts only for french and english)
-## Screenshots
+# Screenshots
 (video: https://youtu.be/zQe--Ni4vi8)
-# V2
+## V2
 ![bottom-screen](/bottom-screen.png?raw=true "Launcher")
 ![top-screen](/top-screen.png?raw=true "Top screen")
 ![homemenu-settings](/homemenu-settings.png?raw=true "Homemenu Settings")
@@ -35,7 +35,7 @@ Only support EUR and USA on Old/New 3DS on < 11.14 (11.14 work)
 ![close-software](/close-software.png?raw=true "Close software Window")
 ![homemenu-layout](/homemenu-layout.png?raw=true "homemenu layout")
 ![sleep-bottom](/sleep-bottom.png?raw=true "Sleep Bottom Screen")
-# V1
+## V1
 ![unknown](/unknown.png?raw=true "Red miiverse and custom HUD")
 ![unknown1](/unknown1.png?raw=true "transparency window")
 ![unknown5](/unknown5.png?raw=true "transparency window with one button")

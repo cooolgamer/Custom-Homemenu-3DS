@@ -31,6 +31,8 @@ EUR/USA/JPN on Old/New 3DS/2DS on < 11.14 (11.14 work)
 * Custom sleep mode (screen when you press power) is now a AP screen (texts only for french and english)
 # Screenshots
 (video: https://youtu.be/zQe--Ni4vi8)
+## V2.2
+![new_launcher](/new_launcher.png?raw=true "New launcher!")
 ## V2
 ![bottom-screen](/bottom-screen.png?raw=true "Launcher")
 ![top-screen](/top-screen.png?raw=true "Top screen")

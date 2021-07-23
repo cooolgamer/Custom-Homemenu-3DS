@@ -3,6 +3,10 @@ NOTE: By installing this, you CAN'T boot on original firmware (OFW). You need to
 ## Supported Versions:
 EUR/USA/JPN on Old/New 3DS/2DS on < 11.14 (11.14 work)
 # What changed? What is modified?
+## V2.2 (hello Geometry dash)
+* New launcher! Inspired with old homemenu applets style (cursor will go 1 row more because I can't change it, it's default position, sorry!),
+* Better cursor,
+* Fixed black background when you launch applet, go to homemenu.
 ## V2.1
 * Fastest boot on EUR/JPN
 * Cursor shadow like old homemenu

@@ -1,7 +1,7 @@
 # Custom Homemenu 3DS
 NOTE: By installing this, you CAN'T boot on original firmware (OFW). You need to uninstall it for booting on OFW!
 ## Supported Versions:
-EUR/USA/JPN on Old/New 3DS/2DS on < 11.14 (11.14 work)
+EUR/USA/JPN on Old/New 3DS/2DS on < 11.15 (11.15 work)
 # What changed? What is modified?
 ## V2.2 (hello Geometry dash)
 * New launcher! Inspired with old homemenu applets style (cursor will go 1 row more because I can't change it, it's default position, sorry!),

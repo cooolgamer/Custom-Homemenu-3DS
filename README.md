@@ -1,8 +1,15 @@
 # Custom Homemenu 3DS
-NOTE: By installing this, you CAN'T boot on original firmware (OFW). You need to uninstall it for booting on OFW!
+NOTE: By installing this:
+* You CAN'T boot on original firmware (OFW). You need to uninstall it for booting on OFW!
+* You can't access on eShop only on USA region, I don't know why but it ask for update. To access on eShop, uninstall the custom homemenu (USA only).
 ## Supported Versions:
 EUR/USA/JPN on Old/New 3DS/2DS on < 11.15 (11.15 work)
 # What changed? What is modified?
+## V2.3
+* New animations on folders and windows!
+* Decreased transparency for windows, it's now more readable.
+* Removed Y and LR buttons showing on top screen (pressing them show up to see what they does).
+* Better cursor.
 ## V2.2 (hello Geometry dash)
 * New launcher! Inspired with old homemenu applets style (cursor will go 1 row more because I can't change it, it's default position, sorry!),
 * Better cursor (Now "animated" like old homemenu),

@@ -3,7 +3,7 @@ NOTE: By installing this:
 * You CAN'T boot on original firmware (OFW). You need to uninstall it for booting on OFW!
 * You can't access on eShop only on USA region, I don't know why but it ask for update. To access on eShop, uninstall the custom homemenu (USA only).
 ## Supported Versions:
-EUR/USA/JPN on Old/New 3DS/2DS on < 11.15 (11.15 work)
+EUR/USA/JPN/KOR on Old/New 3DS/2DS on < 11.15 (11.15 work)
 # What changed? What is modified?
 ## V2.4
 * New: Luma redshift support! Check the file for luma Redshift! (that fix the eShop problem on USA region and you can still boot on Original Firmware wihout the custom homemenu of course)
@@ -67,6 +67,7 @@ EUR/USA/JPN on Old/New 3DS/2DS on < 11.15 (11.15 work)
 ![unknown3](/unknown3.png?raw=true "custom icons")
 ![unknown4](/unknown4.png?raw=true "custom homemenu layout")
 # How to install?
+## Cia method
 * Download the latest release in https://github.com/cooolgamer/Custom-Homemenu-3DS/releases
 * Extract the ZIP file and copy the gm9 folder on the root of your SDcard
 * Launch godmode9 by holding start on booting (if you don't have it, you can find it here https://github.com/d0k3/GodMode9/releases)
@@ -74,6 +75,10 @@ EUR/USA/JPN on Old/New 3DS/2DS on < 11.15 (11.15 work)
 * On the Mod HomeMenu script, select "install", select "HomeMenu_edited.cia" and unlock permissions
 * It will ask to create a NAND backup, select "yes" and wait
 * When finished, press A and start, the custom homemenu is installed!
+## Luma Redshift method
+* Make sure that game patching is enabled on your luma config (if not, hold select while booting and check (x) "Enable game patching" then press start.)
+* Download the "For luma Redshift" archive and uncompress it
+* Chose your console region and copy/paste the "luma" folder on the root of your SDcard.
 Enjoy!
 # How to uninstall?
 * Launch godmode9

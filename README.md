@@ -5,6 +5,16 @@ NOTE: By installing this:
 ## Supported Versions:
 EUR/USA/JPN on Old/New 3DS/2DS on < 11.15 (11.15 work)
 # What changed? What is modified?
+## V2.4
+* New: Luma redshift support! Check the file for luma Redshift! (that fix the eShop problem on USA region and you can still boot on Original Firmware wihout the custom homemenu of course)
+* KOR region support:
+* Unlocked and translated homemenu management (translated with Yandex translate, it can be not accurate)
+* Badges section translated (you need to have badges to see it)
+* Not unlocked themes because it don't work ("failed to create theme extradata" error, you can't access to the menu) (You can still access to it on badges menu)
+* For all regions:
+* New animations! When you power on and when you launch a software
+* Faster camera load when pressing L+R (removed 10 frames)
+* Improved animations (like the dialog (window) one)
 ## V2.3
 * New animations on folders and windows!
 * Decreased transparency for windows, it's now more readable.

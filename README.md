@@ -5,28 +5,28 @@ NOTE: By installing this with Cia method:
 ## Supported Versions:
 EUR/USA/JPN/KOR on Old/New 3DS/2DS on < 11.15 (11.15 work)
 # What changed? What is modified?
-* Luma redshift support! Check the file for luma Redshift! (that fix the eShop problem on USA region and you can still boot on Original Firmware wihout the custom homemenu of course)
+* Luma redshift support! Check the file for luma Redshift! (that fix the eShop problem on USA region and you can still boot on Original Firmware wihout the custom homemenu of course).
 * KOR region support:
-* Unlocked and translated homemenu management (translated with Yandex translate, it can be not accurate)
-* Badges section translated (you need to have badges to see it)
-* Not unlocked themes because it don't work ("failed to create theme extradata" error, you can't access to the menu) (You can still access to it on badges menu)
+* Unlocked and translated homemenu management (translated with Yandex translate, it can be not accurate),
+* Badges section translated (you need to have badges to see it),
+* Not unlocked themes because it don't work ("failed to create theme extradata" error, you can't access to the menu) (You can still access to it on badges menu).
 * For all regions:
-* Custom animations! Folders, Power on, Launch a software and Dialog (windows like "closing software")
-* Faster camera load when pressing L+R (removed 10 frames)
-* Removed Y and LR buttons showing on top screen (pressing them show up to see what they does).
+* Custom animations! Folders, Power on, Launch a software and Dialog (windows like "closing software"),
+* Faster camera load when pressing L+R (removed 10 frames),
+* Removed Y and LR buttons showing on top screen (pressing them show up to see what they does),
 * New launcher! Inspired with old homemenu applets style (cursor will go 1 row more because I can't change it, it's default position, sorry!),
-* Fastest boot on EUR/JPN
-* Changed cursors and buttons (inspired of old homemenu)
-* homemenu settings close button changed
-* Changed sleep screen, big button in the middle
-* Changed battery skin
-* For french users (baguette): custom texts :)
-* Custom basic themes (no music)
-* Custom icons
-* Added transparency for windows
-* Changed HUD (the date/hour/play coins etc...)
-* Changed banner/icons for apelets (miiverse is now red and flash green for notifications)
-* Homemenu layout menu is now grey/blue
+* Fastest boot on EUR/JPN,
+* Changed cursors and buttons (inspired of old homemenu),
+* homemenu settings close button changed,
+* Changed sleep screen, big button in the middle,
+* Changed battery skin,
+* For french users (baguette): custom texts,
+* Custom basic themes (no music),
+* Custom icons,
+* Added transparency for windows,
+* Changed HUD (the date/hour/play coins etc...),
+* Changed banner/icons for apelets (miiverse is now red and flash green for notifications),
+* Homemenu layout menu is now grey/blue.
 # Screenshots
 (video: https://youtu.be/zQe--Ni4vi8)
 ## V2.2

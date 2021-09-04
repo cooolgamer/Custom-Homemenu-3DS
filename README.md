@@ -1,7 +1,7 @@
 # Custom Homemenu 3DS
 NOTE: By installing this with Cia method:
 * You CAN'T boot on original firmware (OFW). You need to uninstall it for booting on OFW!
-* You can't access on eShop only on USA region, I don't know why but it ask for update. To access on eShop, uninstall the custom homemenu (USA only).
+* You can't access on eShop only on USA region, I don't know why but it ask for update. To access on eShop, uninstall the custom homemenu or use the luma redshift version (USA only).
 ## Supported Versions:
 EUR/USA/JPN/KOR on Old/New 3DS/2DS on < 11.15 (11.15 work)
 # What changed? What is modified?

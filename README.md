@@ -3,7 +3,7 @@ NOTE: By installing this with Cia method:
 * You CAN'T boot on original firmware (OFW). You need to uninstall it for booting on OFW!
 * You can't access on eShop only on USA region, I don't know why but it ask for update. To access on eShop, uninstall the custom homemenu or use the luma redshift version (USA only).
 ## Supported Versions:
-EUR/USA/JPN/KOR on Old/New 3DS/2DS on < 11.15 (11.15 work)
+EUR/USA/JPN/KOR on Old/New 3DS/2DS on <= 11.15
 # What changed? What is modified?
 * Luma redshift support! Check the archive for luma Redshift! (that fix the eShop problem on USA region and you can still boot on Original Firmware wihout the custom homemenu of course), Luma redshift can be downloaded with Universal Updater.
 ## KOR region support:
@@ -69,4 +69,4 @@ Enjoy!
 # Need help? Or just want to see my other projects?
 Join my discord server for help/report bugs or chat! https://discord.gg/hKgeSYqcsC
 # Known issues
-* Close button homemenu settings press what is behind it (Z order problem, don't know how to fix)
+* Close button on homemenu settings press what is behind it (Z order problem, don't know how to fix)

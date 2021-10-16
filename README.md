@@ -69,5 +69,4 @@ Enjoy!
 # Need help? Or just want to see my other projects?
 Join my discord server for help/report bugs or chat! https://discord.gg/hKgeSYqcsC
 # Known issues
-* Sleep mode animation is a little transparent on bottom screen, I don't know how to fix that
 * Close button homemenu settings press what is behind it (Z order problem, don't know how to fix)

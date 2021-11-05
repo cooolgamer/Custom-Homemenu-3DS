@@ -27,7 +27,8 @@ EUR/USA/JPN/KOR on Old/New 3DS/2DS on <= 11.15
 * Added transparency for windows,
 * Changed HUD (the date/hour/play coins etc...),
 * Changed banner/icons for applets (miiverse is now red and flash green for notifications),
-* Homemenu layout menu is now grey/blue.
+* Homemenu layout menu is now grey/blue,
+* Theme menu is a little darker.
 # Screenshots
 (video: https://youtu.be/zQe--Ni4vi8)
 ## V2.2
@@ -62,14 +63,16 @@ EUR/USA/JPN/KOR on Old/New 3DS/2DS on <= 11.15
 * Download the "For luma Redshift" archive and uncompress it
 * Chose your console region and copy/paste the "luma" folder on the root of your SDcard.
 Enjoy!
-# How to uninstall ? (Cia method)
-* Launch godmode9
-* Again, press HOME, go to scripts and select "Mod_HomeMenu"
+# How to uninstall ?
+## Cia method
+* Launch godmode9,
+* Again, press HOME, go to scripts and select "Mod_HomeMenu",
 * Instead of select "install", select "restore" and follow instructions.
 * Done! It's now uninstalled and you can boot on original Firmware!
-# How to uninstall ? (Luma redshift method)
-* Simply remove the folder you copied in luma/titles (the one with the 00040030(numbers corresponding to your region).
+## Luma redshift method
+* Simply remove the folder you copied in luma/titles (the one with the 00040030(numbers corresponding to your region)).
+* Or disable game pathing on luma config.
 # Need help? Or just want to see my other projects?
 Join my discord server for help/report bugs or chat! https://discord.gg/hKgeSYqcsC
 # Known issues
-* Close button on homemenu settings press what is behind it (Z order problem, don't know how to fix)
+* Close button on homemenu settings press what is behind it (Z order problem, don't know how to fix).

@@ -6,7 +6,7 @@ NOTE: By installing this with Cia method:
 ## Supported Versions:
 EUR/USA/JPN/KOR on Old/New 3DS/2DS on <= 11.15
 # What changed? What is modified?
-* Luma redshift support! Check the archive for luma Redshift! (that fix the eShop problem on USA region and you can still boot on Original Firmware wihout the custom homemenu of course), Luma redshift can be downloaded with Universal Updater.
+* Luma redshift support! Check the archive for luma Redshift! (That fix the eShop problem on USA region and you can still boot on Original Firmware. Wihout the custom homemenu of course), Luma redshift can be downloaded with Universal Updater (recommended) or use the one in the archive (not updated).
 ## KOR region support:
 * Unlocked and translated homemenu management (translated with Yandex translate, it can be not accurate),
 * Badges section translated (you need to have badges to see it),
@@ -26,7 +26,7 @@ EUR/USA/JPN/KOR on Old/New 3DS/2DS on <= 11.15
 * Custom icons,
 * Added transparency for windows,
 * Changed HUD (the date/hour/play coins etc...),
-* Changed banner/icons for apelets (miiverse is now red and flash green for notifications),
+* Changed banner/icons for applets (miiverse is now red and flash green for notifications),
 * Homemenu layout menu is now grey/blue.
 # Screenshots
 (video: https://youtu.be/zQe--Ni4vi8)
@@ -57,16 +57,18 @@ EUR/USA/JPN/KOR on Old/New 3DS/2DS on <= 11.15
 * On the Mod HomeMenu script, select "install", select "HomeMenu_edited.cia" and unlock permissions
 * It will ask to create a NAND backup, select "yes" and wait
 * When finished, press A and start, the custom homemenu is installed!
-## Luma Redshift method
+## Luma Redshift method (recommended but no fast boot)
 * Make sure that game patching is enabled on your luma config (if not, hold select while booting and check (x) "Enable game patching" then press start.)
 * Download the "For luma Redshift" archive and uncompress it
 * Chose your console region and copy/paste the "luma" folder on the root of your SDcard.
 Enjoy!
-# How to uninstall?
+# How to uninstall ? (Cia method)
 * Launch godmode9
 * Again, press HOME, go to scripts and select "Mod_HomeMenu"
-* Instead of select "install", select "restore" and follow instructions
+* Instead of select "install", select "restore" and follow instructions.
 * Done! It's now uninstalled and you can boot on original Firmware!
+# How to uninstall ? (Luma redshift method)
+* Simply remove the folder you copied in luma/titles (the one with the 00040030(numbers corresponding to your region).
 # Need help? Or just want to see my other projects?
 Join my discord server for help/report bugs or chat! https://discord.gg/hKgeSYqcsC
 # Known issues

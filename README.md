@@ -51,16 +51,16 @@ EUR/USA/JPN/KOR on Old/New 3DS/2DS on <= 11.15
 ![unknown4](/unknown4.png?raw=true "custom homemenu layout")
 # How to install?
 ## Cia method
-* Download the latest release in https://github.com/cooolgamer/Custom-Homemenu-3DS/releases
-* Extract the ZIP file and copy the gm9 folder on the root of your SDcard
-* Launch godmode9 by holding start on booting (if you don't have it, you can find it here https://github.com/d0k3/GodMode9/releases)
-* On godmode9, press HOME, go to scripts and select "Mod_HomeMenu"
-* On the Mod HomeMenu script, select "install", select "HomeMenu_edited.cia" and unlock permissions
-* It will ask to create a NAND backup, select "yes" and wait
+* Download the latest release in https://github.com/cooolgamer/Custom-Homemenu-3DS/releases corresponding to your region,
+* Extract the ZIP file and copy the gm9 folder on the root of your SDcard,
+* Launch godmode9 by holding start on booting (if you don't have it, you can find it here https://github.com/d0k3/GodMode9/releases),
+* On godmode9, press HOME, go to scripts and select "Mod_HomeMenu",
+* On the Mod HomeMenu script, select "install", select "HomeMenu_edited.cia" and unlock permissions,
+* It will ask to create a NAND backup, select "yes" and wait,
 * When finished, press A and start, the custom homemenu is installed!
 ## Luma Redshift method (recommended but no fast boot)
-* Make sure that game patching is enabled on your luma config (if not, hold select while booting and check (x) "Enable game patching" then press start.)
-* Download the "For luma Redshift" archive and uncompress it
+* Make sure that game patching is enabled on your luma config (if not, hold select while booting and check (x) "Enable game patching" then press start.),
+* Download the "For luma Redshift" archive in https://github.com/cooolgamer/Custom-Homemenu-3DS/releases and uncompress it,
 * Chose your console region and copy/paste the "luma" folder on the root of your SDcard.
 Enjoy!
 # How to uninstall ?

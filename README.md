@@ -5,6 +5,8 @@ NOTE: By installing this with Cia method:
 * /!\ WARNING: DO NOT INSTALL IT USING FBI OR OTHER CIA INSTALLER BUT ONLY WITH THE SCRIPT! The homemenu is decrypted, if you want to install it using FBI or other cia installer, DECRYPT it before or you WILL BLACK SCREEN ON BOOTING! /!\
 ## Supported Versions:
 EUR/USA/JPN/KOR on Old/New 3DS/2DS on <= 11.15
+##Installation tutorial
+* Go to https://github.com/cooolgamer/Custom-Homemenu-3DS/blob/main/README.md#how-to-install
 # What changed? What is modified?
 * Luma redshift support! Check the archive for luma Redshift! (That fix the eShop problem on USA region and you can still boot on Original Firmware. Wihout the custom homemenu of course), Luma redshift can be downloaded with Universal Updater (recommended) or use the one in the archive (not updated).
 ## KOR region support:

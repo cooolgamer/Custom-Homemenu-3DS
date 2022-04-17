@@ -52,7 +52,11 @@ EUR/USA/JPN/KOR on Old/New 3DS/2DS on <= 11.15
 ![unknown3](/unknown3.png?raw=true "custom icons")
 ![unknown4](/unknown4.png?raw=true "custom homemenu layout")
 # How to install?
-## Cia method
+## Luma patching method (safe and recommended, but no fast boot), require luma => 10.3
+* Make sure that game patching is enabled on your luma config (if not, hold select while booting and check (x) "Enable game patching" then press start.),
+* Download the "For luma Redshift" archive in https://github.com/cooolgamer/Custom-Homemenu-3DS/releases and uncompress it,
+* Chose your console region and copy/paste the "luma" folder on the root of your SDcard.
+## Cia method (not recommended, please use luma patching method if you don't know what you are doing)
 * Download the latest release in https://github.com/cooolgamer/Custom-Homemenu-3DS/releases corresponding to your region,
 * Extract the ZIP file and copy the gm9 folder on the root of your SDcard,
 * Launch godmode9 by holding start on booting (if you don't have it, you can find it here https://github.com/d0k3/GodMode9/releases),
@@ -60,20 +64,16 @@ EUR/USA/JPN/KOR on Old/New 3DS/2DS on <= 11.15
 * On the Mod HomeMenu script, select "install", select "HomeMenu_edited.cia" and unlock permissions,
 * It will ask to create a NAND backup, select "yes" and wait,
 * When finished, press A and start, the custom homemenu is installed!
-## Luma Redshift method (recommended but no fast boot)
-* Make sure that game patching is enabled on your luma config (if not, hold select while booting and check (x) "Enable game patching" then press start.),
-* Download the "For luma Redshift" archive in https://github.com/cooolgamer/Custom-Homemenu-3DS/releases and uncompress it,
-* Chose your console region and copy/paste the "luma" folder on the root of your SDcard.
 Enjoy!
 # How to uninstall ?
+## Luma patching method
+* Simply remove the folder you copied in luma/titles (the one with the 00040030(numbers corresponding to your region)).
+* Or disable game pathing on luma config.
 ## Cia method
 * Launch godmode9,
 * Again, press HOME, go to scripts and select "Mod_HomeMenu",
 * Instead of select "install", select "restore" and follow instructions.
 * Done! It's now uninstalled and you can boot on original Firmware!
-## Luma redshift method
-* Simply remove the folder you copied in luma/titles (the one with the 00040030(numbers corresponding to your region)).
-* Or disable game pathing on luma config.
 # Need help? Or just want to see my other projects?
 Join my discord server for help/report bugs or chat! https://discord.gg/hKgeSYqcsC
 # Known issues

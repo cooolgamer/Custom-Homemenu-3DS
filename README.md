@@ -54,7 +54,7 @@ EUR/USA/JPN/KOR on Old/New 3DS/2DS on <= 11.15
 # How to install?
 ## Luma patching method (safe and recommended, but no fast boot), require luma => 10.3
 * Make sure that game patching is enabled on your luma config (if not, hold select while booting and check (x) "Enable game patching" then press start.),
-* Download the "For luma Redshift" archive in https://github.com/cooolgamer/Custom-Homemenu-3DS/releases and uncompress it,
+* Download the "For Luma" archive in https://github.com/cooolgamer/Custom-Homemenu-3DS/releases and uncompress it,
 * Chose your console region and copy/paste the "luma" folder on the root of your SDcard.
 ## Cia method (not recommended, please use luma patching method if you don't know what you are doing)
 * Download the latest release in https://github.com/cooolgamer/Custom-Homemenu-3DS/releases corresponding to your region,

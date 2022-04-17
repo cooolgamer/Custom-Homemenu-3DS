@@ -1,8 +1,8 @@
 # Custom Homemenu 3DS
 NOTE: By installing this with Cia method:
-* You CAN'T boot on original firmware (OFW). You need to uninstall it for booting on OFW!
-* You can't access on eShop only on USA region, I don't know why but it ask for update. To access on eShop, uninstall the custom homemenu or use luma v10.3 or higher (USA only).
-* /!\ WARNING: DO NOT INSTALL IT USING FBI OR OTHER CIA INSTALLER BUT ONLY WITH THE SCRIPT! The homemenu is decrypted, if you want to install it using FBI or other cia installer, ENCRYPT it before or you WILL BLACK SCREEN ON BOOTING! /!\
+* You CAN'T boot on original firmware (OFW). You need to uninstall it for booting on OFW or you will BRICK!
+* You can't access on eShop only on USA region, I don't know why but it ask for update. To access on eShop, uninstall the custom homemenu or use luma v10.3 or higher method (USA only).
+* /!\ WARNING: DO NOT INSTALL IT USING FBI OR OTHER CIA INSTALLER BUT ONLY WITH THE SCRIPT! The homemenu is decrypted, if you want to install it using godmode9 (Do NOT use FBI or something like this!), ENCRYPT it before or you WILL BLACK SCREEN ON BOOTING! /!\
 ## Supported Versions:
 EUR/USA/JPN/KOR on Old/New 3DS/2DS on <= 11.15
 ## Installation tutorial

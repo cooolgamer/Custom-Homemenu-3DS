@@ -1,14 +1,14 @@
 # Custom Homemenu 3DS
 NOTE: By installing this with Cia method:
 * You CAN'T boot on original firmware (OFW). You need to uninstall it for booting on OFW!
-* You can't access on eShop only on USA region, I don't know why but it ask for update. To access on eShop, uninstall the custom homemenu or use the luma redshift version (USA only).
+* You can't access on eShop only on USA region, I don't know why but it ask for update. To access on eShop, uninstall the custom homemenu or use luma v10.3 or higher (USA only).
 * /!\ WARNING: DO NOT INSTALL IT USING FBI OR OTHER CIA INSTALLER BUT ONLY WITH THE SCRIPT! The homemenu is decrypted, if you want to install it using FBI or other cia installer, ENCRYPT it before or you WILL BLACK SCREEN ON BOOTING! /!\
 ## Supported Versions:
 EUR/USA/JPN/KOR on Old/New 3DS/2DS on <= 11.15
 ## Installation tutorial
 * Go to https://github.com/cooolgamer/Custom-Homemenu-3DS/blob/main/README.md#how-to-install
 # What changed? What is modified?
-* Luma redshift support! Check the archive for luma Redshift! (That fix the eShop problem on USA region and you can still boot on Original Firmware. Wihout the custom homemenu of course), Luma redshift can be downloaded with Universal Updater (recommended) or use the one in the archive (not updated).
+* Luma game patching support! (That fix the eShop problem on USA region and you can still boot on Original Firmware. Wihout the custom homemenu of course)
 ## KOR region support:
 * Unlocked and translated homemenu management (translated with Yandex translate, it can be not accurate),
 * Badges section translated (you need to have badges to see it),

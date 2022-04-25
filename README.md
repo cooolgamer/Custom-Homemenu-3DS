@@ -1,8 +1,4 @@
 # Custom Homemenu 3DS
-NOTE: By installing this with Cia method:
-* You CAN'T boot on original firmware (OFW). You need to uninstall it for booting on OFW or you will BRICK!
-* You can't access on eShop only on USA region, I don't know why but it ask for update. To access on eShop, uninstall the custom homemenu or use luma v10.3 or higher method (USA only).
-* /!\ WARNING: DO NOT INSTALL IT USING FBI OR OTHER CIA INSTALLER BUT ONLY WITH THE SCRIPT! The homemenu is decrypted, if you want to install it using godmode9 (Do NOT use FBI or something like this!), ENCRYPT it before or you WILL BLACK SCREEN ON BOOTING! /!\
 ## Supported Versions:
 EUR/USA/JPN/KOR on Old/New 3DS/2DS on <= 11.15
 ## Installation tutorial
@@ -56,7 +52,13 @@ EUR/USA/JPN/KOR on Old/New 3DS/2DS on <= 11.15
 * Make sure that game patching is enabled on your luma config (if not, hold select while booting and check (x) "Enable game patching" then press start.),
 * Download the "For Luma" archive in https://github.com/cooolgamer/Custom-Homemenu-3DS/releases and uncompress it,
 * Chose your console region and copy/paste the "luma" folder on the root of your SDcard.
+* Enjoy!
 ## Cia method (not recommended, please use luma patching method if you don't know what you are doing)
+NOTE: By installing this with Cia method:
+* You CAN'T boot on original firmware (OFW). You need to uninstall it for booting on OFW or you will BRICK!
+* You can't access on eShop only on USA region, I don't know why but it ask for update. To access on eShop, uninstall the custom homemenu or use luma v10.3 or higher method (USA only).
+* /!\ WARNING: DO NOT INSTALL IT USING FBI OR OTHER CIA INSTALLER BUT ONLY WITH THE SCRIPT! The homemenu is decrypted, if you want to install it using godmode9 (Do NOT use FBI or something like this!), ENCRYPT it before or you WILL BLACK SCREEN ON BOOTING! /!\
+* Installation:
 * Download the latest release in https://github.com/cooolgamer/Custom-Homemenu-3DS/releases corresponding to your region,
 * Extract the ZIP file and copy the gm9 folder on the root of your SDcard,
 * Launch godmode9 by holding start on booting (if you don't have it, you can find it here https://github.com/d0k3/GodMode9/releases),
@@ -64,7 +66,7 @@ EUR/USA/JPN/KOR on Old/New 3DS/2DS on <= 11.15
 * On the Mod HomeMenu script, select "install", select "HomeMenu_edited.cia" and unlock permissions,
 * It will ask to create a NAND backup, select "yes" and wait,
 * When finished, press A and start, the custom homemenu is installed!
-Enjoy!
+* Enjoy!
 # How to uninstall ?
 ## Luma patching method
 * Simply remove the folder you copied in luma/titles (the one with the 00040030(numbers corresponding to your region)).

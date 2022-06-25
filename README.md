@@ -2,9 +2,8 @@
 ## Supported Versions:
 EUR/USA/JPN/KOR on Old/New 3DS/2DS on <= 11.15
 ## Installation tutorial
-* Go to https://github.com/cooolgamer/Custom-Homemenu-3DS/blob/main/README.md#how-to-install
+* Go to [here](https://github.com/cooolgamer/Custom-Homemenu-3DS/blob/main/README.md#how-to-install).
 # What changed? What is modified?
-* Luma game patching support! (That fix the eShop problem on USA region and you can still boot on Original Firmware. Wihout the custom homemenu of course)
 ## KOR region support:
 * Unlocked and translated homemenu management (translated with Yandex translate, it can be not accurate),
 * Badges section translated (you need to have badges to see it),
@@ -47,11 +46,13 @@ EUR/USA/JPN/KOR on Old/New 3DS/2DS on <= 11.15
 ![unknown3](/unknown3.png?raw=true "custom icons")
 ![unknown4](/unknown4.png?raw=true "custom homemenu layout")
 # How to install?
-* Make sure your luma version is above or equal to 10.3 and that game patching is enabled on your luma config (if not, hold select while booting and check (x) "Enable game patching" then press start.),
-* Download the "For Luma" archive in https://github.com/cooolgamer/Custom-Homemenu-3DS/releases and uncompress it,
+* Make sure your luma version is above or equal to 10.3, if not or you are not sure, you can get it on the [official luma3DS github repository](https://github.com/LumaTeam/Luma3DS/releases),
+* Also make sure that game patching is enabled on your luma config (if not, hold select while booting and check (x) "Enable game patching" then press start.),
+* Download the archive in the [releases page](https://github.com/cooolgamer/Custom-Homemenu-3DS/releases) and uncompress it,
 * Chose your console region and copy/paste the "luma" folder on the root of your SDcard.
 * Enjoy!   
 ## Cia method is no longer supported.
+If you did this method in the past, please follow the uninstallation cia method below
 
 # How to uninstall ?
 ## Luma patching method

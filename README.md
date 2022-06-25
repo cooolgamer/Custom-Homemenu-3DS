@@ -14,9 +14,8 @@ EUR/USA/JPN/KOR on Old/New 3DS/2DS on <= 11.15
 * Faster camera load when pressing L+R (removed 10 frames),
 * Removed Y and LR buttons showing on top screen (pressing them show up to see what they does),
 * New launcher! Inspired with old homemenu applets style (cursor will go 1 row more because I can't change it, it's default position, sorry!),
-* Fastest boot on EUR/JPN (!Work only with cia version!),
 * Changed cursors and buttons (inspired of old homemenu),
-* homemenu settings close button changed,
+* Homemenu settings close button changed,
 * Changed sleep screen, big button in the middle,
 * Changed battery skin,
 * For french users (baguette): custom texts,
@@ -48,35 +47,23 @@ EUR/USA/JPN/KOR on Old/New 3DS/2DS on <= 11.15
 ![unknown3](/unknown3.png?raw=true "custom icons")
 ![unknown4](/unknown4.png?raw=true "custom homemenu layout")
 # How to install?
-## Luma patching method (safe and recommended, but no fast boot), require luma => 10.3
-* Make sure that game patching is enabled on your luma config (if not, hold select while booting and check (x) "Enable game patching" then press start.),
+* Make sure your luma version is above or equal to 10.3 and that game patching is enabled on your luma config (if not, hold select while booting and check (x) "Enable game patching" then press start.),
 * Download the "For Luma" archive in https://github.com/cooolgamer/Custom-Homemenu-3DS/releases and uncompress it,
 * Chose your console region and copy/paste the "luma" folder on the root of your SDcard.
-* Enjoy!
-## Cia method (not recommended, please use luma patching method if you don't know what you are doing)
-NOTE: By installing this with Cia method:
-* You CAN'T boot on original firmware (OFW). You need to uninstall it for booting on OFW or you will BRICK!
-* You can't access on eShop only on USA region, I don't know why but it ask for update. To access on eShop, uninstall the custom homemenu or use luma v10.3 or higher method (USA only).
-* /!\ WARNING: DO NOT INSTALL IT USING FBI OR OTHER CIA INSTALLER BUT ONLY WITH THE SCRIPT! The homemenu is decrypted, if you want to install it using godmode9 (Do NOT use FBI or something like this!), ENCRYPT it before or you WILL BLACK SCREEN ON BOOTING! /!\
-* Installation:
-* Download the latest release in https://github.com/cooolgamer/Custom-Homemenu-3DS/releases corresponding to your region,
-* Extract the ZIP file and copy the gm9 folder on the root of your SDcard,
-* Launch godmode9 by holding start on booting (if you don't have it, you can find it here https://github.com/d0k3/GodMode9/releases),
-* On godmode9, press HOME, go to scripts and select "Mod_HomeMenu",
-* On the Mod HomeMenu script, select "install", select "HomeMenu_edited.cia" and unlock permissions,
-* It will ask to create a NAND backup, select "yes" and wait,
-* When finished, press A and start, the custom homemenu is installed!
-* Enjoy!
+* Enjoy!   
+## Cia method is no longer supported.
+
 # How to uninstall ?
 ## Luma patching method
 * Simply remove the folder you copied in luma/titles (the one with the 00040030(numbers corresponding to your region)).
 * Or disable game pathing on luma config.
-## Cia method
+## Cia method (Please uninstall if you did and follow the new installation method.)
 * Launch godmode9,
-* Again, press HOME, go to scripts and select "Mod_HomeMenu",
-* Instead of select "install", select "restore" and follow instructions.
+* Press HOME, go to scripts and select "Mod_HomeMenu",
+* Select "restore" and follow instructions.
 * Done! It's now uninstalled and you can boot on original Firmware!
 # Need help? Or just want to see my other projects?
 Join my discord server for help/report bugs or chat! https://discord.gg/hKgeSYqcsC
 # Known issues
-* Close button on homemenu settings press what is behind it (Z order problem, don't know how to fix).
+* Close button on homemenu settings press what is behind it (Z order problem, don't know how to fix),
+* Notification light is on the wrong place (too hard to fix).

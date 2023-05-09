@@ -8,13 +8,13 @@ EUR/USA/JPN/KOR on Old/New 3DS/2DS on <= 11.16
 
 # What changed? What is modified?
 ## KOR region support:
-* Theme support (with the help of [@ZeroSkill](https://github.com/ZeroSkill1)
+* Theme support (with the help of [@ZeroSkill](https://github.com/ZeroSkill1))
 * Unlocked and translated homemenu management (translated with Yandex translate, it can be not accurate),
 * Badges section translated (you need to have badges and a NNID to see it),
 
 
 ## For all regions:
-* Custom animations! Folders, Power on, Launch a software, Dialog (windows like "closing software"), Sleep mode screen and more!,
+* Custom animations: Folders, Power on, Launch a software, Dialog (windows like "closing software"), Sleep mode screen and more!,
 * Faster camera load when pressing L+R (removed 10 frames),
 * Removed Y and LR buttons showing on top screen (pressing them show up to see what they does),
 * New launcher! Inspired with old homemenu applets style (cursor will go 1 row more because I can't change it, it's the default position, sorry!),

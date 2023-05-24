@@ -1,7 +1,7 @@
 # Custom Homemenu 3DS
 
 ## Supported Versions:
-EUR/USA/JPN/KOR on Old/New 3DS/2DS on <= 11.16
+EUR/USA/JPN/KOR on Old/New 3DS/2DS on <= 11.17
 
 ## Installation tutorial
 * Go to [here](https://github.com/cooolgamer/Custom-Homemenu-3DS/blob/main/README.md#how-to-install).

@@ -3,8 +3,11 @@
 ## Supported Versions:
 EUR/USA/JPN/KOR on Old/New 3DS/2DS on <= 11.17
 
-## Installation tutorial
+## Installation tutorial:
 * Go to [here](https://github.com/cooolgamer/Custom-Homemenu-3DS/blob/main/README.md#how-to-install).
+
+## Making your own:
+A guide is available on the [wiki of this repo](https://github.com/cooolgamer/Custom-Homemenu-3DS/wiki).
 
 # What changed? What is modified?
 ## KOR region support:

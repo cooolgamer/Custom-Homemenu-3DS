@@ -1,7 +1,8 @@
 # Custom Homemenu 3DS
 
-## Supported Versions:
-EUR/USA/JPN/KOR on Old/New 3DS/2DS on <= 11.17
+## Notes
+* Suported regions/versions: EUR/USA/JPN/KOR on Old/New 3DS/2DS between 9.6 and 11.17
+* By using this, there is a rare chance to randomly crash when you go back to the homemenu from a game or applet. This is a known issue and **not caused by the custom homemenu itself**, but by layeredfs included in **luma3ds**. I'm unable to fix this as I wouldn't know how, it's complicated stuff.
 
 ## Installation tutorial:
 * Go to [here](https://github.com/cooolgamer/Custom-Homemenu-3DS/blob/main/README.md#how-to-install).

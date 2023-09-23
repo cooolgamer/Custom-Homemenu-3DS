@@ -30,27 +30,20 @@ A guide is available on the [wiki of this repo](https://github.com/cooolgamer/Cu
 * Changed HUD (the date/hour/play coins etc...),
 * Changed banner/icons for applets (miiverse is now red and flash green for notifications),
 * Theme menu and Homemenu layout menu is a bit darker.
+* Loading icon is now the Wii U one.
 
 # Screenshots
-(video: https://youtu.be/zQe--Ni4vi8)
-## V2.2
-![new_launcher](/new_launcher.png?raw=true "New launcher!")
-## V2
-![bottom-screen](/bottom-screen.png?raw=true "Launcher")
-![top-screen](/top-screen.png?raw=true "Top screen")
-![homemenu-settings](/homemenu-settings.png?raw=true "Homemenu Settings")
-![ask-window](/ask-window.png?raw=true "Ask Window")
-![close-software](/close-software.png?raw=true "Close software Window")
-![homemenu-layout](/homemenu-layout.png?raw=true "homemenu layout")
-![sleep-bottom](/sleep-bottom.png?raw=true "Sleep Bottom Screen")
-## V1
-![unknown](/unknown.png?raw=true "Red miiverse and custom HUD")
-![unknown1](/unknown1.png?raw=true "transparency window")
-![unknown5](/unknown5.png?raw=true "transparency window with one button")
-![unknown6](/unknown6.png?raw=true "transparency window with two button")
-![unknown2](/unknown2.png?raw=true "transparency menu")
-![unknown3](/unknown3.png?raw=true "custom icons")
-![unknown4](/unknown4.png?raw=true "custom homemenu layout")
+![main](/screenshots/main.png?raw=true "Launcher")
+![downloading](/screenshots/downloading.png?raw=true "Downloading and Loading")
+
+![homemenuLayout](/screenshots/homemenuLayout.png?raw=true "Homemenu Layout")
+![sleep](/screenshots/sleep.png?raw=true "Power Menu")
+
+![homemenuSettings](/screenshots/homemenuSettings.png?raw=true "Homemenu Settings")
+![dialog](/screenshots/dialog.png?raw=true "Dialog Boxes")
+
+[Outdated presentation video](https://youtu.be/zQe--Ni4vi8)
+
 
 # How to install?
 * Make sure your luma version is above or equal to 10.3, if not or you are not sure, you can get it on the [official luma3DS github repository](https://github.com/LumaTeam/Luma3DS/releases),

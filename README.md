@@ -68,5 +68,4 @@ If you did this method in the past, please follow the uninstallation cia method 
 Join my discord server for help/report bugs or chat! https://discord.gg/hKgeSYqcsC
 
 # Known issues
-* Close button on homemenu settings press what is behind it (Z order problem, don't know how to fix),
-* Notification light is on the wrong place (too hard to fix).
+* Close button on homemenu settings press what is behind it (Z order problem, don't know how to fix)

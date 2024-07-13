@@ -13,7 +13,7 @@ A guide is available on the [wiki of this repo](https://github.com/cooolgamer/Cu
 # What changed? What is modified?
 ## KOR region support:
 * Theme support (with the help of [@ZeroSkill](https://github.com/ZeroSkill1))
-* Unlocked and translated homemenu management (translated with Yandex translate, it can be not accurate),
+* Unlocked and translated homemenu management (Translated by [@Sangmin Yun](https://github.com/yoonsangmin)),
 * Badges section translated (you need to have badges and a NNID to see it),
 
 
@@ -22,7 +22,7 @@ A guide is available on the [wiki of this repo](https://github.com/cooolgamer/Cu
 * Faster camera load when pressing L+R (removed 10 frames),
 * Removed Y and LR buttons showing on top screen (pressing them show up to see what they does),
 * New launcher! Inspired with old homemenu applets style (cursor will go 1 row more because I can't change it, it's the default position, sorry!),
-* Changed cursors and buttons (inspired of old homemenu),
+* Changed cursors and buttons (from the old homemenu),
 * Changed sleep screen, big button in the middle,
 * Changed battery skin,
 * Custom icons,

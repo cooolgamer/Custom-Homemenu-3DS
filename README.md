@@ -12,7 +12,7 @@ A guide is available on the [wiki of this repo](https://github.com/cooolgamer/Cu
 
 # What changed? What is modified?
 ## KOR region support:
-* Theme support (with the help of [@ZeroSkill](https://github.com/ZeroSkill1))
+* Themes and Badges support (with the help of [@ZeroSkill](https://github.com/ZeroSkill1)), you can view the original patches [here](https://github.com/ZeroSkill1/CTR-Hacking/tree/master/General-Hacking/HOME%20Menu%20Patches)
 * Unlocked and translated homemenu management (Translated by [@Sangmin Yun](https://github.com/yoonsangmin)),
 * Badges section translated (you need to have badges and a NNID to see it),
 

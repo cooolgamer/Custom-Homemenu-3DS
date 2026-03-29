@@ -7,7 +7,7 @@
   * KOR in 11.16 (untested on lower versions)
   
 
-* By using this, the system will crash when you go back to the homemenu from a game or applet 11 times. This is a known issue and **not caused by the custom homemenu itself**, but by layeredfs included in **luma3ds**. I'm unable to fix this as I wouldn't know how, it's complicated stuff.
+* By using this, the system will crash when you go back to the homemenu from a game or applet 11 times. This is a known issue and **not caused by the custom homemenu itself**, but by layeredfs included in **luma3ds**. This is now fixed, but not released yet, please wait for the new Luma3DS release.
 
 ## Installation tutorial:
 * Go to [here](https://github.com/cooolgamer/Custom-Homemenu-3DS/blob/main/README.md#how-to-install).
@@ -27,8 +27,8 @@ A guide is available on the [wiki of this repo](https://github.com/cooolgamer/Cu
 * Removed Y and LR buttons showing on top screen (pressing them show up to see what they does),
 * New launcher! Inspired with old homemenu applets style (cursor will go 1 row more because I can't change it, it's the default position, sorry!),
 * Changed cursors and buttons (from the old homemenu),
-* Changed sleep screen, big button in the middle,
-* Changed battery skin,
+* Changed sleep screen, with a big button in the middle,
+* Changed battery skin a bit,
 * Custom icons,
 * Added transparency for windows,
 * Changed HUD (the date/hour/play coins etc...),
@@ -44,11 +44,11 @@ A guide is available on the [wiki of this repo](https://github.com/cooolgamer/Cu
 ![sleep](/screenshots/sleep.png?raw=true "Power Menu")
 
 ![homemenuSettings](/screenshots/homemenuSettings.png?raw=true "Homemenu Settings")
+
 ![dialog](/screenshots/dialog.png?raw=true "Dialog Boxes")
+![dialog](/screenshots/dialogNoButton.png?raw=true "Dialog Boxes")
 
 ![korSupport](/screenshots/korSupport.png?raw=true "Kor region support")
-
-[Outdated presentation video](https://youtu.be/zQe--Ni4vi8)
 
 
 # How to install?
@@ -78,7 +78,7 @@ If you did this method in the past, please follow the uninstallation cia method 
    - As you can see on the screenshots, yes, this mod is just visual changes (except KOR that has extra code patches to support themes and badges), so you can use the same features that the original homemenu has.
 
 - I'm getting crashes when I go back to the home menu, how can I prevent that?
-   - I have no idea, this is a bug of Luma3DS, not the mod. It occurs rarely though.
+   - This is a bug of Luma3DS, not the mod. It got fixed but not released yet.
 
 # Need help? Or just want to see my other projects?
 You can join my discord server for help,report bugs, or just chat! https://discord.gg/hKgeSYqcsC

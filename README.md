@@ -5,9 +5,6 @@
   * Old/New 3DS/2DS
   * EUR/USA/JPN between 9.6 and 11.17
   * KOR in 11.16 (untested on lower versions)
-  
-
-* By using this, the system will crash when you go back to the homemenu from a game or applet 11 times. This is a known issue and **not caused by the custom homemenu itself**, but by layeredfs included in **luma3ds**. This is now fixed, but not released yet, please wait for the new Luma3DS release.
 
 ## Installation tutorial:
 * Go to [here](https://github.com/cooolgamer/Custom-Homemenu-3DS/blob/main/README.md#how-to-install).
@@ -78,7 +75,7 @@ If you did this method in the past, please follow the uninstallation cia method 
    - As you can see on the screenshots, yes, this mod is just visual changes (except KOR that has extra code patches to support themes and badges), so you can use the same features that the original homemenu has.
 
 - I'm getting crashes when I go back to the home menu, how can I prevent that?
-   - This is a bug of Luma3DS, not the mod. It got fixed but not released yet.
+   - Update to [Luma3DS](https://github.com/LumaTeam/Luma3DS/releases) v13.4 or higher.
 
 # Need help? Or just want to see my other projects?
 You can join my discord server for help,report bugs, or just chat! https://discord.gg/hKgeSYqcsC
